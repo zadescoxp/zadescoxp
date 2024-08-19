@@ -1,8 +1,6 @@
 <h1 align="center">Hola soy Zade Scoxp</h1>
 <h3 align="center">I’m a Web Designer, developer and voice artist. I’m a CS student still learning about the world and technology, also I’m an optimistic person pushing my skills everyday to help out my clients.</h3>
 
-<p align="left" style="margin-right: 10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zadescoxp" alt="zadescoxp" /></a> </p>
-
 - 🔭 I’m currently working on **creative design and development ideas to build a strong portfolio.**
 
 - 🌱 I’m currently learning **backend services and databases at an advanced level.**
