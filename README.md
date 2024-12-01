@@ -15,4 +15,6 @@
 
 - ⚡ Fun fact **I love football, music and doing cool stuff.**
 
-<iframe src="https://giphy.com/embed/l0NwGpoOVLTAyUJSo" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p align="center">
+  <img src="https://giphy.com/embed/l0NwGpoOVLTAyUJSo" alt="header" width="100%">
+</p>
