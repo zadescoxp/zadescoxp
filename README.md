@@ -16,5 +16,5 @@
 - ⚡ Fun fact **I love football, music and doing cool stuff.**
 
 <p align="center">
-  <img src="[https://giphy.com/embed/l0NwGpoOVLTAyUJSo](https://media1.tenor.com/m/rf71abuteZcAAAAC/batman-caped-crusader-caped-crusader.gif)" alt="header" width="100%">
+  <img src="https://media1.tenor.com/m/rf71abuteZcAAAAC/batman-caped-crusader-caped-crusader.gif" alt="header" width="100%">
 </p>
