@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://x.com/zadescoxp](https://x.com/zadescoxp)
 
-- 💬 Ask me about **front end development.**
+- 💬 Ask me about **full stack development.**
 
 - 📫 How to reach me **zadescoxp@gmail.com**
 
